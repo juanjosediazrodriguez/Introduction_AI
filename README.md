@@ -27,6 +27,6 @@ se hizo uso de IA para fines de explicacion de codigo y apoyo corrigiendo segmen
 ## Integrantes
 
 - Juan Jose Diaz
-- Nombre Apellido
+- Jhesid Steven Suarez Berrio
 - Nombre Apellido
 - Nombre Apellido
