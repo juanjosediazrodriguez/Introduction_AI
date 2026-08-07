@@ -23,3 +23,10 @@ lecture-3-optimization/
 ## Declaracion de uso de IA 
 
 se hizo uso de IA para fines de explicacion de codigo y apoyo corrigiendo segmentos de codigo, no se genero codigo o material directamente por IA sin por lo menos una primera version humana  
+
+## Integrantes
+
+- Juan Jose Diaz
+- Nombre Apellido
+- Nombre Apellido
+- Nombre Apellido
