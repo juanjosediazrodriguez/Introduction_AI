@@ -28,5 +28,5 @@ se hizo uso de IA para fines de explicacion de codigo y apoyo corrigiendo segmen
 
 - Juan Jose Diaz
 - Jhesid Steven Suarez Berrio
-- Nombre Apellido
+- Felipe Martinez Cortes
 - Nombre Apellido
