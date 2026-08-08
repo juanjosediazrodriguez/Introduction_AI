@@ -29,4 +29,4 @@ se hizo uso de IA para fines de explicacion de codigo y apoyo corrigiendo segmen
 - Juan Jose Diaz
 - Jhesid Steven Suarez Berrio
 - Felipe Martinez Cortes
-- Nombre Apellido
+- Alejandro Jaramillo Rodriguez
