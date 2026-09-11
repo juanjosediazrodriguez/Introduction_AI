@@ -14,6 +14,23 @@ Un directorio por lecture, con el o los notebooks trabajados en esa sesión:
 ```
 lecture-2-search/
 lecture-3-optimization/
+lecture-4-markov/
+lecture-5-reinforcement/
+lecture-6-ml/
+```
+
+`lecture-6-ml/` tiene estructura propia, porque sus notebooks encadenan artefactos entre sí. Los notebooks resuelven las rutas con `Path.cwd()`, así que el kernel debe arrancar desde `challenge/`:
+
+```
+lecture-6-ml/challenge/
+├── 01_data_challenge.ipynb                    → data/processed/, artifacts/data_contract.json
+├── 02_training_challenge.ipynb                → artifacts/champion_model.joblib, reports/cv_results.csv
+├── 03_evaluation_deployment_challenge.ipynb   → reports/test_metrics.json, reports/batch_predictions.csv
+├── data/
+│   ├── raw/wine.csv          dataset original
+│   └── processed/            train.csv y test.csv (split estratificado 142/36)
+├── artifacts/                contrato de datos, modelo campeón y metadatos de entrenamiento
+└── reports/                  resultados de validación cruzada, métricas de test y predicciones por lote
 ```
 
 ## Referencias
