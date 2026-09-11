@@ -1,5 +1,5 @@
 {
-  "champion_name": "logistic_regression",
+  "champion": "logistic_regression",
   "best_params": {
     "clasificador__C": 1.0
   },
